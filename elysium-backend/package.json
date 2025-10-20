@@ -1,0 +1,14 @@
+{
+  "name": "elysium-backend",
+  "version": "1.0.0",
+  "description": "Hono server for video generation logic Nya.",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node src/server.js"
+  },
+  "dependencies": {
+    "hono": "^4.2.3"
+  },
+  "type": "module"
+}
